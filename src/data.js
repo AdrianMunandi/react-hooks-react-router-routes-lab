@@ -15,7 +15,6 @@ const movies = [
     genres: ["Action", "Adventure", "Crime", "Mystery", "Thriller"],
   },
 ];
-
 const actors = [
   {
     name: "Benedict Cumberbatch",
@@ -38,7 +37,6 @@ const actors = [
     ],
   },
 ];
-
 const directors = [
   {
     name: "Scott Derrickson",
